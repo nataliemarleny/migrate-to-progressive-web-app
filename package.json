@@ -1,0 +1,23 @@
+{
+  "name": "migrate-to-progressive-web-apps",
+  "version": "1.0.0",
+  "description": "This folder contains the source code for a Google I/O 2016 codelab.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/googlecodelabs/migrate-to-progressive-web-apps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/googlecodelabs/migrate-to-progressive-web-apps/issues"
+  },
+  "homepage": "https://github.com/googlecodelabs/migrate-to-progressive-web-apps#readme",
+  "devDependencies": {
+    "web-push": "^3.3.3"
+  }
+}
