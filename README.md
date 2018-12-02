@@ -16,7 +16,7 @@ Interestingly, the Lighthouse Audit reveals only a 54/100 for the Progressive We
 
 ![lighthouse audit: 54% for the PWA category](https://github.com/nataliemarleny/migrate-to-progressive-web-app/blob/master/readme/lighthouse-audit.png)
 
-| Demo | :--- |
+| Demo | ✏️ |
 | :---: | :--- |
 | ![gif of the finished application](https://github.com/nataliemarleny/migrate-to-progressive-web-app/blob/master/readme/progressive-web-app.gif)  | **Demo of the finished Progressive Web App from Google Codelabs**|
 
